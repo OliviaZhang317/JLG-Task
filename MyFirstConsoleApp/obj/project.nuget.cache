@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OEPg0exdnOc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jieti\\.dotnet\\MyFirstConsoleApp\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jieti\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\jieti\\.nuget\\packages\\microsoft.playwright\\1.45.1\\microsoft.playwright.1.45.1.nupkg.sha512",
+    "C:\\Users\\jieti\\.nuget\\packages\\passwordgenerator\\2.1.0\\passwordgenerator.2.1.0.nupkg.sha512",
+    "C:\\Users\\jieti\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\jieti\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jieti\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\jieti\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
